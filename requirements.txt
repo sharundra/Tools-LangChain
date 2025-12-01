@@ -5,3 +5,5 @@ pydantic
 duckduckgo-search
 ddgs
 langchain-experimental
+langchain-openai
+requests
